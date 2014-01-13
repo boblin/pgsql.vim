@@ -1,4 +1,4 @@
-Vim Postgresql syntax and indet files
+Vim Postgresql syntax and indent files
 ===============
 
 * Language:     pgsql
